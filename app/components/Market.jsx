@@ -2,8 +2,11 @@ var React = require('react');
 // var Item = require('Item');
 
 var Market = React.createClass({
-render: function(){
-  <h1>This is market</h1>
+render: function(){    
+	return (
+      <h1>This is market</h1>
+        
+	);
 }
 
 });
